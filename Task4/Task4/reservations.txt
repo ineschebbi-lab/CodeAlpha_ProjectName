@@ -1,0 +1,5 @@
+1;Ines;5;false
+2;Ines;6;true
+3;Ines;3;true
+4;Ines;4;false
+Add reservations.txt for Task4
