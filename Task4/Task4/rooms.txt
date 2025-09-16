@@ -1,0 +1,4 @@
+1;Standard;50.0;true
+2;Deluxe;80.0;true
+3;Suite;150.0;true
+Add rooms.txt for Task4
